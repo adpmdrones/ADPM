@@ -1,3 +1,5 @@
+![TIM Logo](https://www.adpmdrones.com/wp-content/uploads/2019/02/Logo-ADPM-Drones-header.png)
+
 # Project Title
 
 One Paragraph of project description goes here
